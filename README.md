@@ -80,3 +80,4 @@ Prevents loading spawn chunks on your server. Helps to optimize it greatly!
 3. Join the [official Eaglercraft discord server](https://discord.gg/6yTNkypXWh) and look for any answers there.
 4. If all else fails, contact me directly **through Discord** at `ayunami2000#5250`
 5. If you do not have access to Discord, THEN you can leave a comment on the Replit."# minecraft" 
+"# minecraft" 
