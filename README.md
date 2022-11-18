@@ -1,5 +1,7 @@
 # replit eaglercraft server
 
+### ty [Byte#9476](https://replit.com/@ant-7802) for fixing the forwarding issue!!
+
 [extra help discord server](https://discord.gg/9HfPSp3D)
 |
 [anotha one](https://discord.gg/FBqfmDkF2Z)
@@ -77,4 +79,4 @@ Prevents loading spawn chunks on your server. Helps to optimize it greatly!
 2. **(try this multiple times, at least 5-10. this fixes the "End of Stream" issue among many, many others)** Try clicking on the "Shell" tab (next to the "Console" tab) and running `busybox reboot`. Then you can try pressing the Run button again and see if it works.
 3. Join the [official Eaglercraft discord server](https://discord.gg/6yTNkypXWh) and look for any answers there.
 4. If all else fails, contact me directly **through Discord** at `ayunami2000#5250`
-5. If you do not have access to Discord, THEN you can leave a comment on the Replit.
+5. If you do not have access to Discord, THEN you can leave a comment on the Replit."# minecraft" 
